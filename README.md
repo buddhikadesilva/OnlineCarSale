@@ -1,7 +1,7 @@
 # OnlineCarSale
 - Online car-buying offers some solid advantages over traditional methods such as finding the car you want at a lower price than you might get from a local dealer
 
-
+open source project
 
 This is a php web application , that demonstrate a shopping cart. Used Technologies are PHP , MYSQL . If you insteresd you can use it . please make sure to click a star for this repo. Thank you. Happy Coding!
 
