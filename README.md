@@ -1,5 +1,7 @@
 # OnlineCarSale
 
+- PHP (Hypertext Preprocessor) is known as a general-purpose scripting language that can be used to develop dynamic and interactive websites. It was among the first server-side languages that could be embedded into HTML, making it easier to add functionality to web pages without needing to call external files for data.
+
 - E-commerce (electronic commerce) is the buying and selling of goods and services, or the transmitting of funds or data, over an electronic network, primarily the internet. These business transactions occur either as business-to-business (B2B), business-to-consumer (B2C), consumer-to-consumer or consumer-to-business.
 - Online car-buying offers some solid advantages over traditional methods such as finding the car you want at a lower price than you might get from a local dealer
 
