@@ -15,3 +15,5 @@ This is a php web application , that demonstrate a shopping cart. Used Technolog
 -When was the internet business started?
 -1991
 The history of ecommerce is closely intertwined with the history of the internet. Online shopping only became possible when the internet was opened to the public in 1991. Amazon.com was one of the first ecommerce sites in the US to start selling products online and thousands of businesses have followed their online selling methods.
+
+Nearly 30% of U.S. new car sales last year were completed online, according to Alan Haig, an automotive retail consultant and president of Haig Partners. Before the pandemic, less than 2% of vehicles were purchased digitally. "This shift to digital retail is positive for dealers who embrace it," Haig told ABC News
